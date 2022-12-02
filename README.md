@@ -30,9 +30,26 @@
     "hoby" : "Musik"
 }    
 ```
+</td>
+</tr>
+<tr>
+<td> <b>Respon Succes</b> </td>
+<td>
+
+``` json
+{
+    "code" : 201,
+    "message" : "Data mahasiswa berhasil diinput",
+    "data" : {
+        "nim" : 2001,
+        "nama" : "Rusdi Abdul Gani",
+        "alamat" : "Bogor",
+        "hoby" : "Musik"
+    } 
+}    
+```
 
 </td>
 </tr>
-    
 </table>
 </details>
