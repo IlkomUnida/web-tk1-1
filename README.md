@@ -33,7 +33,7 @@
 </td>
 </tr>
 <tr>
-<td> <b>Respon Succes</b> </td>
+<td> <b>Respon Success</b> </td>
 <td>
 
 ``` json
@@ -49,7 +49,7 @@
 }    
 ```
 <tr>
-<td> <b>Respon conflic</b> </td>
+<td> <b>Respon Conflict</b> </td>
 <td>
 
 ``` json
