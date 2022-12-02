@@ -48,6 +48,21 @@
     } 
 }    
 ```
+<tr>
+<td> <b>Respon conflic</b> </td>
+<td>
+
+``` json
+{
+    "code" : 409,
+    "message" : "Nama Mahasiswa telah digunakan",
+    "data" : {
+        "value" : "Rusdi Abdul Gani",
+        "property" : "nama",
+        "location" : "body"
+    } 
+}    
+```
 
 </td>
 </tr>
