@@ -9,7 +9,7 @@
 <table>
 <tr>
     <td> <b>URL</b> </td>
-    <td> {{baseURL}}/api/v1/mahasiswa </td>
+    <td> {{baseURL}}/api/v1/mahasiswa</td>
 </tr>
 <tr>
     <td> <b>Method</b> </td>
@@ -26,7 +26,7 @@
 ``` json
 {
     "nama" : "Rusdi Abdul Gani",
-    "alamat" : "Bogor",
+    "alamat" : "Kab Bogor",
     "hoby" : "Musik"
 }    
 ```
